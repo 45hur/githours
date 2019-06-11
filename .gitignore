@@ -1,0 +1,8 @@
+
+GitHours/bin/
+
+GitHours/obj/
+
+\.vs/
+
+GitHours/Properties/launchSettings\.json
