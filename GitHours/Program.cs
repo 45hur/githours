@@ -74,7 +74,7 @@ namespace GitHours
                             {
                                 //more than 2h between commits, probably idle >4h
                                 if (interesting)
-                                    totalHours += 1;
+                                    totalHours += 1.5;
                             }
                         }
 
